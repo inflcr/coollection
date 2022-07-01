@@ -22,14 +22,24 @@
 			"type": "vcs",
 			"no-api": true,
 			"url": "https://github.com/inflcr/ia-collection"
+		},
+		{
+			"type": "vcs",
+			"no-api": true,
+			"url": "https://github.com/inflcr/ia-str"
+		},
+		{
+			"type": "vcs",
+			"no-api": true,
+			"url": "https://github.com/inflcr/ia-arr"
 		}
     ],
 
     "require": {
         "php": ">=7.0",
         "pragmarx/ia-collection": "dev-master",
-        "pragmarx/ia-str": "~5.0|~6.0|~7.0",
-        "pragmarx/ia-arr": "~5.0|~6.0|~7.0"
+        "pragmarx/ia-str": "dev-master",
+        "pragmarx/ia-arr": "dev-master"
     },
 
     "autoload": {
