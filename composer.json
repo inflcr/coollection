@@ -37,9 +37,9 @@
 
     "require": {
         "php": ">=7.0",
-        "pragmarx/ia-collection": "dev-master",
-        "pragmarx/ia-str": "dev-master",
-        "pragmarx/ia-arr": "dev-master"
+        "pragmarx/ia-collection": "7.3.1",
+        "pragmarx/ia-str": "7.3.1",
+        "pragmarx/ia-arr": "7.3.2"
     },
 
     "autoload": {
